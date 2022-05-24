@@ -1,0 +1,22 @@
+
+body{
+    background-color: rgb(210, 245, 245);
+}
+
+.contactInfo.language .percent
+{
+    position: relative;
+    width: 10%;
+    height: 6px;
+    background: #081921;
+    display: block;
+    margin-top: 5px;
+}
+.contactInfo.language .percent div
+{
+    position: absolute;
+    top: 0;
+    left: 0%;
+    height: 70%;
+    background: #03a9f4;
+}
